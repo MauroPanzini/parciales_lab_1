@@ -7,6 +7,5 @@
 
 
 int calcular_tiempo(){
-	eFecha tiempo;
-	return tiempo;
+
 }
